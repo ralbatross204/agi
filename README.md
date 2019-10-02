@@ -1,8 +1,8 @@
 #  Accept GitHub Invitations (agi)
 
-A bash script to make accepting large numbers of GitHub invitations much simpler.
+A bash script to make accepting large numbers of GitHub invitations much simpler via the GitHub API.
 
-Tested using bash 5 and python 3
+Tested using bash 5 and python 3 (python is used in the script to do some JSON parsing)
 
     ./agi --help
     Accept GitHub Invitations
